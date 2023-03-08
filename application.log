@@ -1,0 +1,9 @@
+2023-03-08 01:18:50,606  INFO [main] SauceDemo-16Oct-Project:48 - Browser is opened
+2023-03-08 01:18:53,645  INFO [main] SauceDemo-16Oct-Project:51 - URL is open
+2023-03-08 01:18:53,924  INFO [main] SauceDemo-16Oct-Project:54 - Browser is maximized
+2023-03-08 01:18:54,149  INFO [main] SauceDemo-16Oct-Project:57 - Takes screenshot on login page
+2023-03-08 01:18:54,357  INFO [main] SauceDemo-16Oct-Project:64 - Username is entered
+2023-03-08 01:18:54,448  INFO [main] SauceDemo-16Oct-Project:67 - password is entered
+2023-03-08 01:18:54,945  INFO [main] SauceDemo-16Oct-Project:70 - Click on login button
+2023-03-08 01:18:55,083  INFO [main] SauceDemo-16Oct-Project:72 - went to homepage
+2023-03-08 01:18:56,827  INFO [main] SauceDemo-16Oct-Project:82 - Browser is closed
